@@ -1,37 +1,16 @@
 <img align="right" alt="Coding" width="100%" src="https://tse1.mm.bing.net/th?id=OIP.5qml1lFWZGvXItye_GaLsQHaBo&pid=Api&P=0&h=180"/>
-<h1 align="center"  body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #000;
-}
+<h1 style="text-align: center; position: relative; font-family: sans-serif; text-transform: uppercase; font-size: 2em; letter-spacing: 4px; overflow: hidden; background: linear-gradient(90deg, #000, #fff, #000); background-repeat: no-repeat; background-size: 80%; -webkit-background-clip: text; -webkit-text-fill-color: rgba(255, 255, 255, 0); animation: animate 3s linear infinite;">
+    Hi 👋, I'm Abhijeet Shukla
+  </h1>
 
-p {
-  position: relative;
-  font-family: sans-serif;
-  text-transform: uppercase;
-  font-size: 2em;
-  letter-spacing: 4px;
-  overflow: hidden;
-  background: linear-gradient(90deg, #000, #fff, #000);
-  background-repeat: no-repeat;
-  background-size: 80%;
-  animation: animate 3s linear infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: rgba(255, 255, 255, 0);
-}
-
-@keyframes animate {
-  0% {
-    background-position: -500%;
-  }
-  100% {
-    background-position: 500%;
-  }
-}>Hi 👋, I'm Abhijeet Shukla</h1>
+  <style>
+    @keyframes animate {
+      0% {
+        background-position: -500%;
+      }
+      100% {
+        background-position: 500%;
+      }
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrY2dxcGR5Z2tkZjh0Z280aHUzcnk4aGU0cW96Nm1kdDAxNmZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
 
