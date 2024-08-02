@@ -31,11 +31,11 @@
 <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> -->
 <img src="https://img.shields.io/badge/Chakra%20UI-%233197AC.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra-UI">
 <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-<img src="https://img.shields.io/badge/Sanity-%23333333.svg?&style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity">
+<!-- <img src="https://img.shields.io/badge/Sanity-%23333333.svg?&style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"> -->
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
