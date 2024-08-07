@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
+  <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 <h1  align="center"> Hi 👋, I'm Abhijeet Shukla</h1>   
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrY2dxcGR5Z2tkZjh0Z280aHUzcnk4aGU0cW96Nm1kdDAxNmZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
@@ -48,6 +48,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&locale=en" alt="abhijeetkumarshukla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarshukla&" alt="abhijeetkumarshukla" /></p>
+ 
 
+<p><img align="center" src="https://github4life.herokuapp.com/ethomson.gif?z=6/?user=abhijeetkumarshukla&" alt="abhijeetkumarshukla" /></p>
 <h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
+
