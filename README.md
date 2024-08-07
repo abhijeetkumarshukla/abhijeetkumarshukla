@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shuklaabhijeet510@gmail.com**
 
-- ⚡ Fun fact **I think I make everyone happy in minutes , telling some meme .**
+- ⚡ Fun fact **I think I make happy in minutes , telling some meme .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&locale=en" alt="abhijeetkumarshukla" /></p>
 
- 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarshukla&" alt="abhijeetkumarshukla" /></p>
 
-<p><img align="center" src="https://github4life.herokuapp.com/ethomson.gif?z=6/?user=abhijeetkumarshukla&" alt="abhijeetkumarshukla" /></p>
 <h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
-
