@@ -46,11 +46,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
-<p> <img align="center" src="![GitHub Streak](https://user-images.githubusercontent.com/20955511/183303724-de45e18a-d4f8-48ae-88c1-d54a35d2ecea.png)
-" alt="abhijeetkumarshukla" /></p>
+ [![GitHub Streak](https://user-images.githubusercontent.com/20955511/183303724-de45e18a-d4f8-48ae-88c1-d54a35d2ecea.png)](https://github.com/abhijeetkumarshukla)
+
 
  <p><img align="center" src="" alt="abhijeetkumarshukla" /></p>
 
-![GitHub Streak](https://user-images.githubusercontent.com/20955511/183303724-de45e18a-d4f8-48ae-88c1-d54a35d2ecea.png)
+ 
 
 <h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
