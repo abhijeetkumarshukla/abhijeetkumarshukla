@@ -46,7 +46,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.vercel.app/?user=abhijeetkumarshukla&theme=gotham" alt="abhijeetkumarshukla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkumarshukla&show_icons=true&locale=en&layout=compact&theme=gotham
+" alt="abhijeetkumarshukla" /></p>
 
  <p><img align="center" src="https://camo.githubusercontent.com/1085a2f1b634d25edc192f99106eced595ec0b408905826b0f20ac5e64a16ab3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416268697368656b4b756d61725261792673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhijeetkumarshukla" /></p>
 
