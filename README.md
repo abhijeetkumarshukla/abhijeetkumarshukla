@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=abhijeetkumarshukla&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
  <p><img align="center" src="" alt="abhijeetkumarshukla" /></p>
 
