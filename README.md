@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shuklaabhijeet510@gmail.com**
 
-- ⚡ Fun fact **I think I make happy in minutes , telling some meme .**
+- ⚡ fact **Belive in Bhagwan .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +31,8 @@
 <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
-<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<!-- <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> --> 
 <img src="https://img.shields.io/badge/Chakra%20UI-%233197AC.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra-UI">
 <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 <!-- <img src="https://img.shields.io/badge/Sanity-%23333333.svg?&style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"> -->
@@ -44,10 +44,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkumarshukla&show_icons=true&locale=en&layout=compact" alt="abhijeetkumarshukla" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/a5f1f0c8e8bf7b86dd84f984f7370f8797c8a5b188192646bbe841da4e6f6c73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d416268697368656b4b756d61725261792673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d676f7468616d" alt="abhijeetkumarshukla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&locale=en" alt="abhijeetkumarshukla" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&locale=en](https://camo.githubusercontent.com/1085a2f1b634d25edc192f99106eced595ec0b408905826b0f20ac5e64a16ab3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416268697368656b4b756d61725261792673686f775f69636f6e733d74727565267468656d653d676f7468616d)" alt="abhijeetkumarshukla" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarshukla&" alt="abhijeetkumarshukla" /></p>
+ <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarshukla&](https://camo.githubusercontent.com/78f071f3d5ce23992e269850310c943e28203647ec95cc84686af507b2b152c0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416268697368656b4b756d6172526179267468656d653d676f7468616d)" alt="abhijeetkumarshukla" /></p>
 
 <h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
