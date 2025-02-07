@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
- <p><img align="center" src="" alt="image ja chuka h bhai aab wapis hi nahi aata h" /></p>
+ <p><img align="center" src="https://camo.githubusercontent.com/c04def70412340163e03bcc8dd12d74f2a8071bed942347df5535e62dca0788c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b6172616e4368617568616e6a69267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="image ja chuka h bhai aab wapis hi nahi aata h" /></p>
 
 
  <p><img align="center" src="" alt=" mera bhi same hi h bhai" /></p>
