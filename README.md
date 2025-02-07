@@ -3,8 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrY2dxcGR5Z2tkZjh0Z280aHUzcnk4aGU0cW96Nm1kdDAxNmZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
 
+<br/><br/>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkumarshukla&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkumarshukla" /> </p>
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkumarshukla" alt="abhijeetkumarshukla" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@abhijeetsonu17" target="blank"><img src="https://img.shields.io/twitter/follow/@abhijeetsonu17?logo=twitter&style=for-the-badge" alt="@abhijeetsonu17" /></a> </p>
