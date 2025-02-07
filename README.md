@@ -46,13 +46,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
- <a href="https://github.com/abhijeetkumarshukla">
-  <img src="https://camo.githubusercontent.com/78f071f3d5ce23992e269850310c943e28203647ec95cc84686af507b2b152c0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416268697368656b4b756d6172526179267468656d653d676f7468616d" alt="GitHub Streak">
-</a>
+ <p><img align="center" src="" alt="image ja chuka h bhai aab wapis hi nahi aata h" /></p>
 
 
-
- <p><img align="center" src="" alt="abhijeetkumarshukla" /></p>
+ <p><img align="center" src="" alt=" mera bhi same hi h bhai" /></p>
 
  
 
