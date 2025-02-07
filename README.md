@@ -46,9 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
 
-  <a href="https://github.com/abhijeetkumarshukla">
-  <img src="https://user-images.githubusercontent.com/20955511/183303724-de45e18a-d4f8-48ae-88c1-d54a35d2ecea.png" alt="GitHub Streak">
-</a>
+   [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=abhijeetkumarshukla&theme=gotham)](https://github.com/abhijeetkumarshukla)
 
 
 
