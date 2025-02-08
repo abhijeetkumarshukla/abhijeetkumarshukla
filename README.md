@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrY2dxcGR5Z2tkZjh0Z280aHUzcnk4aGU0cW96Nm1kdDAxNmZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
 
 <br/><br/>
+
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub) -->
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkumarshukla&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkumarshukla" /> </p>
 <br/>
@@ -46,16 +48,17 @@
 </p>
 
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkumarshukla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarshukla&show_icons=true&theme=gotham" alt="abhijeetkumarshukla" /></p>
-
-<!-- <p><img align="center" src="" alt="image ja chuka h bhai aab wapis hi nahi aata h" /></p> -->
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkumarshukla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkumarshukla&theme=dark&hide_border=false)
 
+<!-- <p><img align="center" src="" alt="image ja chuka h bhai aab wapis hi nahi aata h" /></p> -->
 
+ 
  <!-- <p><img align="center" src="" alt=" mera bhi same hi h bhai" /></p> -->
 
  <br/>
